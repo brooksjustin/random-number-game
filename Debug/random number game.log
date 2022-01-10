@@ -1,3 +1,0 @@
-﻿  Source.cpp
-c:\users\brook\source\repos\random number game\random number game\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  random number game.vcxproj -> C:\Users\brook\source\repos\random number game\Debug\random number game.exe
